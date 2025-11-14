@@ -1,4 +1,14 @@
-# html-projects
+# HTML5 Projects Repository
+
+Welcome to the **HTML5 Projects** repository!  
+This repository contains **beginner to advanced HTML5 projects**, designed to help you **master HTML5 from scratch to full-featured pages**, including the latest HTML5 features as of 2025.
+
+---
+
+## **Repository Structure**
+
+```
+
 html5-projects/
 │
 ├── 01-basics/
@@ -56,3 +66,86 @@ html5-projects/
 │   └── 06-web-workers-demo/
 │
 └── README.md
+
+````
+
+---
+
+## **Project Levels & Learning Path**
+
+### **Level 1: Absolute Beginner (Basics of HTML)**
+- Hello World Page
+- My First Webpage
+- Simple List Page
+- Favorite Foods / Hobbies Page
+
+### **Level 2: Layouts & Structure**
+- Basic Portfolio
+- Simple Blog Layout
+- Landing Page Clone
+
+### **Level 3: Text Formatting & Links**
+- Resume Page
+- Multi-Page Website Navigation
+
+### **Level 4: Multimedia & Embedding**
+- Image Gallery
+- Video & Audio Page
+- Embedded YouTube & Google Maps Page
+
+### **Level 5: Forms & Inputs**
+- Contact Form
+- Registration Form
+- Survey / Feedback Form
+
+### **Level 6: Tables & Data**
+- Product Catalog Table
+- Weekly Schedule Table
+
+### **Level 7: Semantic HTML & Accessibility**
+- Accessible Portfolio
+- Blog Post Template
+
+### **Level 8: Advanced HTML5 Features**
+- Progress & Meter Demo
+- Details & Summary Page
+- Canvas Drawing Project
+- Drag & Drop Demo
+
+### **Level 9: Full Pages & Mini Projects**
+- Restaurant Landing Page
+- Event Page
+- Portfolio Redesign
+- Simple E-Commerce Page
+- Interactive FAQ Page
+
+### **Level 10: HTML5 API Experiments**
+- Local Storage Demo
+- Geolocation Demo
+- Web Storage Demo
+- Audio API Demo
+- Video API Demo
+- Web Workers Demo
+
+---
+
+## **Usage**
+
+1. Clone this repository:
+```bash
+git clone https://github.com/yourusername/html5-projects.git
+````
+
+2. Open each project folder in your browser or editor.
+3. Follow the project order from **Level 1 → Level 10** for a complete learning path.
+4. Use this as a **practice portfolio** or deploy via **GitHub Pages** for live demos.
+
+---
+
+## **Tips for Mastery**
+
+* Start simple, focus on structure before styling.
+* Use semantic HTML and accessibility best practices.
+* Validate your HTML using [W3C Validator](https://validator.w3.org/).
+* Incrementally add CSS later to style the pages.
+* Deploy small projects to GitHub Pages for portfolio visibility.
